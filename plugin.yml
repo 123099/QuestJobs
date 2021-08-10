@@ -1,0 +1,10 @@
+name: QuestJobs
+main: com.khazovgames.questjobs.QuestJobs
+version: 1.8
+softdepend: [Vault, Citizens, Slimefun]
+commands:
+ quest:
+  description: Allows control of your quests. See /quest help for more info.
+permissions:
+ questjobs.create:
+  default: false

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/javassist/javassist.jar" sourcepath="libs/javassist/src"/>
+	<classpathentry kind="lib" path="libs/spigot/spigot-api-1.10.2-R0.1-SNAPSHOT-shaded.jar" sourcepath="libs/spigot/src"/>
+	<classpathentry kind="lib" path="libs/VaultAPI/VaultAPI.jar" sourcepath="libs/VaultAPI/src"/>
+	<classpathentry kind="lib" path="libs/craftbukkit/craftbukkit-1.10.2-R0.1-SNAPSHOT.jar" sourcepath="libs/craftbukkit/src"/>
+	<classpathentry kind="lib" path="libs/citizens/citizensapi-2.0.19-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="libs/slimefun/Slimefun_v4.0.10.jar"/>
+	<classpathentry kind="lib" path="libs/openpojo/openpojo-0.4.8.jar" sourcepath="libs/openpojo/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
