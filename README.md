@@ -6,7 +6,7 @@ QuestJobs is a Minecraft Spigot/Bukkit plugin that allows users to create in-gam
 
 The plugin interacts with other Minecraft plugins to allow for more varied quests and rewards.
 
-This is a project I have started around 2013-2014 when I was just 16 years old.
+This is a project I have started around 2013-2014 when I was just 16 years old, and then reworked a bit again in 2016 when I started studying game engineering.
 
 ## Noteworthy Features
 
