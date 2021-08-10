@@ -64,8 +64,8 @@ Then, somewhere in the first line add the character # followed by the ID of the 
 
 
 For example:
-![upload_2016-7-4_23-21-56](https://user-images.githubusercontent.com/21365830/128937447-dfb527ab-51a2-4c85-bcfd-0e68e189ac96.png)
 
+![upload_2016-7-4_23-21-56](https://user-images.githubusercontent.com/21365830/128937447-dfb527ab-51a2-4c85-bcfd-0e68e189ac96.png)
 
 As long as the first line contains the # character and the ID of the quest, you can put any other words anywhere on the sign.
 Also, as you can see, you can have multiple signs representing the same quest. That means you can place signs for the same quest in different locations in the world.
@@ -96,25 +96,32 @@ By double clicking on the plugin's jar file, a GUI will open, and there you can 
 Some in-game images of the current version of the plugin:
 
 User Experience:
+
 ![upload_2016-7-15_8-30-31](https://user-images.githubusercontent.com/21365830/128937554-4c0940d4-dd41-4b18-9da4-7cdc1decebb8.png)
 
 On-join quest progress announcement:
+
 ![upload_2016-7-15_8-27-52](https://user-images.githubusercontent.com/21365830/128937574-46eb2204-5383-438e-b342-4dfbe90a5cab.png)
 
 The quest log:
+
 ![upload_2016-7-6_10-10-13](https://user-images.githubusercontent.com/21365830/128937586-ecc9ec74-a808-4533-929d-907b2f85ef67.png)
 
 A test quest:
+
 ![upload_2016-7-6_10-10-25](https://user-images.githubusercontent.com/21365830/128937609-beb3aaf7-6163-4fe9-8ba6-d64f00daffeb.png)
 ![upload_2016-7-6_10-10-32](https://user-images.githubusercontent.com/21365830/128937614-303cd515-6c72-4f67-9631-31484404f114.png)
 
 On quest completion:
+
 ![upload_2016-7-15_8-32-22](https://user-images.githubusercontent.com/21365830/128937629-0ecdbca2-ae25-4107-b855-6ec68ccafe94.png)
 
 Economy quest rewards:
+
 ![upload_2016-7-6_20-27-14](https://user-images.githubusercontent.com/21365830/128937647-807497fd-5485-46e0-ac18-a6a95a1bfc94.png)
 
 Quest progress tracking:
+
 ![upload_2016-7-12_22-11-59](https://user-images.githubusercontent.com/21365830/128937660-a83e360d-1ff8-4172-a328-48eb1d1526d5.png)
 
 ## Plugin release page
